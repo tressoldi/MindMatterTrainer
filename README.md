@@ -3,7 +3,7 @@ A simple Mind-Matter Trainer based on a TrueREG (https://www.tindie.com/products
 
 Insert your TrueREG in a USB port of your PC
 
-Add the mmt.py and calibration.ini files in a dedicated folder.
+Add the MMT.py and Calibration.ini files in a dedicated folder.
 
 In the calibration.ini file choose the number of bits/sec to be analyzed and the time (in seconds) of the trial.
 Launch the mmt.py from your Python GUI.
