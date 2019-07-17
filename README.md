@@ -5,7 +5,8 @@ Insert your TrueREG in a USB port of your PC
 
 Add the MMT.py and Calibration.ini files in a dedicated folder.
 
-In the calibration.ini file, choose the number of bits/sec to be analyzed and the time (in seconds) of the trial.
+In the calibration.ini file, choose the number of bits/sec to be analyzed, the time (in seconds) of the trial and the interval for the samples analysis (in seconds).
+
 Launch the mmt.py from your Python GUI.
 
 When launched, a graph will open showing the number of 0s and 1s around the expected mean.
