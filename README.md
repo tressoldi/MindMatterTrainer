@@ -1,6 +1,10 @@
 # MindMatterTrainer
 A simple Mind-Matter Trainer based on a TrueREG (https://www.tindie.com/products/ubldit/truerng-v3)
 
+project funded by the Bial Foundation grant n.29/18 
+
+
+Instructions:
 Insert your TrueREG in a USB port of your PC
 
 Add the MMT.py and Calibration.ini files in a dedicated folder.
