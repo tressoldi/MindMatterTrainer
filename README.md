@@ -1,4 +1,5 @@
-# MindMatterTrainer
+# MindMatterTrainer v.1.0.3
+
 A simple Mind-Matter Trainer based on a TrueREG (https://www.tindie.com/products/ubldit/truerng-v3)
 
 project funded by the Bial Foundation grant n.29/18 
