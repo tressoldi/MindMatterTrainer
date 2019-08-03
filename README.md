@@ -23,3 +23,7 @@ Pressinf F on your keyboard you can switch from full to reduced screen.
 As output, you will have the final plot plus a .csv file with all data for further analyses.
 
 Enjoy your mind-matter skill !!
+
+You can cite it as: 
+Pederzoli, L. & Semenzato, L. & Tressoldi, P. (2019). MindMatterTrainer. Available at https://github.com/tressoldi/MindMatterTrainer
+
